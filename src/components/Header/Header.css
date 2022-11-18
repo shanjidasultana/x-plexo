@@ -1,0 +1,44 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:#52bcd2 ;
+    padding:7px 10px;
+}
+.nav-links{
+    display: flex;
+}
+nav h2{
+    color: rgb(52, 40, 40);
+    font-size: 28px;
+    text-shadow: 2px 2px 5px rgb(253, 253, 249);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+nav a{
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 10px;
+    padding: 12px 14px 5px 14px;
+    color: white;
+    text-align: center;
+}
+nav a:hover{
+    background-color: lightgray;
+}
+.userName{
+    margin-left: 18px;
+    padding-top: 5px;
+}
+.logoutBtn{
+    margin-left: 18px;
+    background: none;
+    color: white;
+    margin-top: 5px;
+    border: none;
+    font-size: 17px;
+    padding: none;
+}
+.logoutBtn:hover{
+    color: ghostwhite;
+    cursor: pointer;
+}

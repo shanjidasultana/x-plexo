@@ -1,0 +1,475 @@
+[
+
+    {
+        "category":"hoodies",
+        "name": "NINJA SILHOUETTE",
+        "img": "https://thecrypticcafe.com/wp-content/uploads/2021/08/hoodie_5_front.jpg",
+        "price": 45.00,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"25",
+        "color":"Black",
+        "size":"S"
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "WOO NINJA HOODIES",
+        "img": "https://thecrypticcafe.com/wp-content/uploads/2021/08/hoodie_2_front.jpg",
+        "price": 39.00,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"45",
+        "color":"Pink",
+        "size":"XL"
+       
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "HAPPY NINJA",
+        "img": "https://thecrypticcafe.com/wp-content/uploads/2021/08/hoodie_4_front.jpg",
+        "price": 89.00,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"57",
+        "color":"Gray",
+        "size":"XS"
+       
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "WOO LOGO",
+        "img": "https://thecrypticcafe.com/wp-content/uploads/2021/08/hoodie_6_front.jpg",
+        "price":19.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"3",
+        "color":"Black",
+        "size":"XS"
+               
+        
+    }
+    ,
+    {
+        "category":"hoodies",
+        "name": "Hoodie POULTER",
+        "img": "https://cms.brnstc.de/product_images/435x596/cpro/media/images/product/22/1/100128242515000_0_1643028317060.jpg",
+        "price":40.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"6",
+        "color":"Camel",
+        "size":"M"
+       
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "VALENTINO",
+        "img": "https://cms.brnstc.de/product_images/435x596/cpro/media/images/product/22/1/100124697011000_0_1642676465714.jpg",
+        "price":49.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"42",
+        "color":"Creaml",
+        "size":"S"
+        
+       
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "Panther Hoodies",
+        "img": "https://ae01.alicdn.com/kf/Hbffcddc37853488b8a3404972d4d828bw/2021-New-Black-Panther-Hoodies-Men-Women-Children-3D-Print-Streetwear-Pullover-Long-Sleeve-Boy-Girl.jpg_Q90.jpg_.webp",
+        "price":55.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"4",
+        "color":"Black",
+        "size":"S"
+       
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "Furious Jumper",
+        "img": "https://ae04.alicdn.com/kf/Sf8cb8586dc9641f2837390b1b88d3986n.jpg",
+        "price":55.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"41",
+        "color":"Merun",
+        "size":"M"
+       
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "BTS Black Logo Hoodie",
+        "img": "https://cdn.shopify.com/s/files/1/0301/5131/1495/products/btsblacklogohoodie_540x.png?v=1663058772",
+        "price":30.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"1",
+        "color":"Purple",
+        "size":"L"
+       
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "Nextu-Restu Hoodie",
+        "img": "https://cdn.shopify.com/s/files/1/0301/5131/1495/products/OfficialVadiveluNextu-RestuHoodie_540x.jpg?v=1657607179",
+        "price":45.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"4",
+        "color":"Yellow",
+        "size":"XS"
+       
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "Hemlock Teen Girls Hoodies",
+        "img": "https://m.media-amazon.com/images/I/51OPifcc50L.jpg",
+        "price":35.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"12",
+        "color":"White",
+        "size":"L"
+       
+     
+    },
+    {
+        "category":"hoodies",
+        "name": "Loose Flower Hoodies",
+        "img": "https://ae01.alicdn.com/kf/H25aa89cd5dfc40e38916e7f70f2f07e5g/Korean-Style-Women-Hoodies-Loose-Flower-Printed-Hooded-Sweatshirts-For-Teens-Girls-Casual-Autumn-And-Winter.jpg_Q90.jpg_.webp",
+        "price":65.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"30",
+        "color":"White",
+        "size":"XS"
+     
+    },
+    {
+        "category":"hoodies",
+        "name": " Contrast Paneling Hoodies",
+        "img": "https://m.media-amazon.com/images/I/51Nf3m+2wWL._UX679_.jpg",
+        "price":68.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"2",
+        "color":"Mix",
+        "size":"L"
+       
+     
+    },
+    {
+        "category":"t-shirt",
+        "name": "Short Sleeve T-Shirt Boss",
+        "img": "https://jashoremart.com/wp-content/uploads/2021/04/boss-ddep-grey-t-shirt.jpg",
+        "price":32.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"23",
+        "color":"Ash",
+        "size":"XL"
+     
+    },
+    {
+        "category":"t-shirt",
+        "name": "COTTON SHORT SLEEVE T-SHIRT ",
+        "img": "https://www.styleex.com.bd/images/detailed/260/3e80b8822f65b36ad1cbb7968a75f505.jpeg",
+        "price":32.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"17",
+        "color":"Ash",
+        "size":"S"
+       
+     
+    },
+    {
+        "category":"t-shirt",
+        "name": "Printed Cotton Half Sleeve T-Shirt ",
+        "img": "https://static-01.daraz.com.bd/p/6af3375dc11e6417d701beb5e5335e85.jpg",
+        "price":48.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"21",
+        "color":"Ash",
+        "size":"XS"
+     
+    },
+    {
+        "category":"t-shirt",
+        "name": "Girls Pattern Cotton T-Shirt",
+        "img": "https://xcdn.next.co.uk/common/items/default/default/itemimages/altitemzoom/m64897s.jpg?im=Resize,width=364",
+        "price":30.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"23",
+        "color":"Ash",
+        "size":"L"
+       
+     
+    },
+    {
+        "category":"t-shirt",
+        "name":"Graphic Batwing Sleev T-Shirt ",
+        "img": "https://img.ltwebstatic.com/images3_pi/2022/01/14/1642148111f1923446472626cd89dd12e36a6aa350_thumbnail_600x.webp",
+        "price":48.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"2",
+        "color":"White",
+        "size":"XL"
+       
+     
+    },
+    {
+        "category":"t-shirt",
+        "name":"Hatsune Miku T Shirt",
+        "img": "https://ae01.alicdn.com/kf/Hb82d34bda0b5463cb51b1e0f32bff7b7h/Hatsune-Miku-T-Shirt-LIASOSO-Fashion-Men-T-Shirt-Women-Anime-Girl-3D-Print-Unisex-Hip.jpg_Q90.jpg_.webp",
+        "price":25.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"10",
+        "color":"Blue",
+        "size":"XS"
+       
+     
+    },
+    {
+        "category":"shirt",
+        "name":"Non-iron Cotton Solid Dress Shirt",
+        "img": "https://s7images.paulfredrick.com/is/image/PaulFredrick/DHS150B_101?$SH_PDPmain_xl$",
+        "price":79.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"1",
+        "color":"White",
+        "size":"XL"
+     
+    },
+    {
+        "category":"shirt",
+        "name":"Cotton Border Print Casual Shirt",
+        "img": "https://s7images.paulfredrick.com/is/image/PaulFredrick/SMS330L_77?$SH_PDPmain_xl$",
+        "price":79.00 ,
+        "stock":"Not In Stock",
+        "description": "Display Size",
+        "totalAvailable":"",
+        "color":"Blue",
+        "size":"L"
+       
+     
+    },
+    {
+        "category":"shirt",
+        "name":"Non-iron Cotton Shirt",
+        "img": "https://s7images.paulfredrick.com/is/image/PaulFredrick/DMS040B_901?$SH_PDPmain_xl$",
+        "price":82.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"3",
+        "color":"Blue",
+        "size":"S"
+     
+    },
+    {
+        "category":"shirt",
+        "name":"Solid Dress Shirt",
+        "img": "https://s7images.paulfredrick.com/is/image/PaulFredrick/DHS340B_311?$SH_PDPmain_xl$",
+        "price":79.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"1",
+        "color":"Green",
+        "size":"XS"
+     
+    },
+    {
+        "category":"shirt",
+        "name":"Glen Plaid Dress Shirt",
+        "img": "https://s7images.paulfredrick.com/is/image/PaulFredrick/DMS270B_5?$SH_PDPmain_xl$",
+        "price":80.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"7",
+        "color":"Black/White",
+        "size":"L"
+     
+    },
+    {
+        "category":"shirt",
+        "name":"Cotton Tattersall Dress Shirt ",
+        "img": "https://s7images.paulfredrick.com/is/image/PaulFredrick/DFS530B_901?$SH_PDPmain_xl$",
+        "price":69.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"11",
+        "color":"Multi-Color",
+        "size":"XL"
+       
+     
+    },
+    {
+        "category":"shirt",
+        "name":"French Cuff Dress Shirt",
+        "img": "https://s7images.paulfredrick.com/is/image/PaulFredrick/341_B?$SH_PDPmain_xl$",
+        "price":89.00 ,
+        "stock":"Not In Stock",
+        "description": "Display Size",
+        "totalAvailable":"0",
+        "color":"Blue",
+        "size":"M"
+       
+     
+    },
+    {
+        "category":"jacket",
+        "name":"Patagonia Nano Puff Jacket",
+        "img": "https://www.rei.com/media/53e669f6-8146-4c88-bc6d-0524ef718174?size=576x768",
+        "price":72.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"6",
+        "color":" Asphalt Heather",
+        "size":"L"
+       
+     
+    },
+    {
+        "category":"jacket",
+        "name":"Groundbreaker Fleece Jacket",
+        "img": "https://www.rei.com/media/dc38f6a0-1519-42b1-abdb-d4d146f8ab3a?size=576x768",
+        "price":50.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"23",
+        "color":"Hemlock Green",
+        "size":"S"
+     
+    },
+    {
+        "category":"jacket",
+        "name":"JACKET WITH POUCH POCKET",
+        "img": "https://static.pullandbear.net/2/photos//2022/I/0/2/p/8715/526/615/8715526615_2_6_8.jpg?t=1657800314877&imwidth=1920",
+        "price":50.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"5",
+        "color":"Orange",
+        "size":"L"
+     
+    },
+    {
+        "category":"jacket",
+        "name":"BLUE DENIM JACKET WITH SEAMS",
+        "img": "https://static.pullandbear.net/2/photos//2022/I/0/2/p/8713/510/400/8713510400_2_6_8.jpg?t=1652438829864",
+        "price":50.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"9",
+        "color":"Blue",
+        "size":"XS"
+       
+     
+    },
+   
+    {
+        "category":"jacket",
+        "name":"Tan Casual Leather Jacket",
+        "img": "https://5.imimg.com/data5/NJ/IA/MY-30854818/men-s-pure-leather-jacket-500x500.jpg",
+        "price":77.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"8",
+        "color":"Brown/Tan",
+        "size":"L"
+       
+     
+    },
+    {
+        "category":"jacket",
+        "name":"Jordan Balvin Jacket",
+        "img": "https://images.stockx.com/images/Jordan-x-J-Balvin-Varsity-Jacket-White-Blue.jpg?fit=fill&bg=FFFFFF&w=576&h=384&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1663008022&q=57",
+        "price":64.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"6",
+        "color":"Skyblue/White",
+        "size":"M"
+     
+    },
+    {
+        "category":"jacket",
+        "name":"Mens Winter Jacket",
+        "img": "https://static-01.daraz.com.bd/p/f7cb6296a564b3dad9330c38fcb2714d.jpg",
+        "price":47.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"1",
+        "color":"Gray/Black",
+        "size":"XS"
+       
+     
+    },
+    {
+        "category":"jacket",
+        "name":"Heavyweight Puffer Jacket",
+        "img": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.25f/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw893d183a/productimages/C222G509.jpg?sw=800&sh=1000&sfrm=jpg&yocs=4E_4G_",
+        "price":46.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"5",
+        "color":"Pink",
+        "size":"XL"
+       
+     
+    },
+    {
+        "category":"jacket",
+        "name":"Shaggy Jacket",
+        "img": "https://www.bodenimages.com/productimages/r1aproductxlarge/22gwin_g3521_pnk.jpg",
+        "price":46.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"2",
+        "color":"Almond pink",
+        "size":"S"
+     
+    },
+    {
+        "category":"jacket",
+        "name":"Holographic Bomber Jacket",
+        "img": "https://assets.ajio.com/medias/sys_master/root/20210906/tyST/6136560a7cdb8cb82419a467/-473Wx593H-441123640-ltpink-MODEL3.jpg",
+        "price":76.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"10",
+        "color":"Almond pink",
+        "size":"M"
+     
+    },
+    {
+        "category":"jacket",
+        "name":"Triple bow skirted jacket",
+        "img": "https://www.monsoon.co.uk/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-monsoon-master-catalog/default/dw3bff291d/images/large/02_41408714_3.jpg?sw=663&sh=848&sm=cut",
+        "price":76.00 ,
+        "stock":"In Stock",
+        "description": "Display Size",
+        "totalAvailable":"20",
+        "color":"color",
+        "size":"XS"
+       
+     
+    }
+   
+]

@@ -1,0 +1,39 @@
+.loginForm{
+   width: 400px; 
+   position: relative;
+   top: 50%;
+   left: 50%;
+   border-radius: 10px;
+   transform: translate(-50%);
+   background:linear-gradient(#52bcd2,black);
+   text-align: center;
+   margin-bottom: 40px;
+}
+.loginForm h2{
+    padding-top:40px;
+}
+.loginForm input{
+    width: 90%;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
+.loginForm button{
+ background: goldenrod;
+ font-size: 16px;
+ border: none;
+ padding: 10px 20px;
+ border-radius: 10px;
+ font-weight: 700;
+ margin-bottom: 20px;
+ 
+}
+.submitBtn{
+    background:skyblue;
+    margin-bottom: 15px;
+}
+.loginForm p{
+    color: white;
+}

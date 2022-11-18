@@ -1,0 +1,53 @@
+.searches-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px;
+}
+.prouct-selection{
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.reset-btn{
+    font-weight: 600;
+    width: 70px;
+    font-size: 15px;
+    background: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    color: #52bcd2;
+}
+.reset-btn:hover{
+    color: gainsboro;
+}
+.addToCart-btn{
+    background-color: #52bcd2;
+    color: rgb(255, 255, 255);
+    border: none;
+    margin-left: 10px;
+    padding: 8px 24px;
+}
+
+.product-loader{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color:  #52bcd2;
+    transform: translate(-50%);
+}
+.pagination{
+    margin: 30px;
+}
+.pagination button{
+    margin-right: 20px;
+    padding: 0 10px;
+}
+.pagination .selected{
+    background-color: #52bcd2;
+    color: white;
+}

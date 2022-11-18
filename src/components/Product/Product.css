@@ -1,0 +1,68 @@
+.products-details{
+    background-color: rgb(229, 237, 245);
+    padding: 0px 30px;
+    border-bottom: 2px solid rgb(167, 166, 166);
+}
+.buy-th{
+ text-align: center;
+}
+.item-name{
+  width: 230px;
+  font-weight: 700;
+  font-size: 14px;
+}
+.stock{
+  color: rgb(2, 147, 2);
+  font-size: 16px;
+  font-weight: 700;
+}
+table {
+  width: 95%;
+  margin-left: 25px;
+  border-spacing: 15px;
+  color: #444;
+  
+}
+tr {
+  margin-bottom: 20px;
+}
+
+th {
+  box-shadow: 2px 3px 20px gainsboro;
+  border-radius: 5px;
+  width: 200px;
+  text-align: center;
+  height: 38px;
+  font-size: 17px;
+}
+
+td {
+  width: 200px;
+  font-size: 17px;
+  text-align: center;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  display: none;
+}
+.productCountityInput{
+    width:80px;
+    padding: 8px 5px;
+    outline: none;
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    border: none;
+    background: rgb(242, 237, 237);
+}
+.cart{
+  margin-top: 33px;
+  display: flex;
+}
+.cart-btn{
+  width: 75px;
+  border: none;
+  background: black;
+}
+
+

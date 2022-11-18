@@ -1,0 +1,86 @@
+.remove-btn{
+    background: black;
+    color: white;
+    border: none;
+    font-weight: 700;
+    padding: 7px 9px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.remove-btn:hover{
+    background: gainsboro;
+    color: black;
+}
+.review-box{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.quantity-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 75%;
+    font-size: 19px;
+    font-weight: 700;
+    width: 80px;
+    margin-left: 30px;
+    background: gold;
+    box-shadow: 2px 3px 20px gainsboro;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 25px;
+    padding: 5px;
+}
+.loader{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #52bcd2;
+    transform: translate(-50%);
+}
+.quantity-div button{
+    background:none;
+    border: none;
+    font-size: 19px;
+    font-weight: 700;
+  
+}
+.table-column{
+    border-bottom: 2px solid gray;
+}
+
+td button{
+    cursor: pointer;   
+}
+td button:hover{
+    color:rgb(80, 79, 74);  
+    text-shadow: 1px 1px 1px rgb(46, 45, 42);
+}
+.cart-content{
+ margin-top: 10px;
+ margin-right: 8px;
+ height: 285px;
+ width: 390px;
+ text-align: start;
+ box-shadow: 2px 3px 20px gainsboro;
+ border: 1px solid rgb(207, 207, 207);
+ padding: 10px 30px 8px 30px;
+ border-radius: 4px;
+}
+.cart-total{
+ font-weight: 400;
+}
+.subtotal{
+    padding-bottom: 15px;
+    font-weight: 500;
+    font-size: 16px;
+    border-bottom: 2px solid rgb(207, 207, 207);
+}
+.checkout-btn{
+    padding: 10px 20px;
+    color: white;
+    font-size: 12px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(2, 2, 156);
+}
